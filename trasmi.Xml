@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<transmilenio>
+<Troncal>
+   <Nombre Troncal="Caracas Sur"
+    <Cantidad> 10 </Cantidad>
+      <Estacion>"Portal tunal"
+            <Latitud>4.571178</Latitud>
+                <Longitud>-74.140039</Longitud>
+                    <Tipo>Portal</Tipo>
+        </Estacion>
+      <Estacion>Parque
+            <Latitud>4.568518</Latitud>
+                <Longitud>-74.135750</Longitud>
+                    <Tipo>Estacion Normal</Tipo>
+        </Estacion>
+      <Estacion>Biblioteca
+            <Latitud>4.570458</Latitud>
+                <Longitud>-74.130374</Longitud>
+                    <Tipo>Estacion Normal</Tipo>  
+        </Estacion> 
+      <Estacion>Santa lucia
+            <Latitud>4.570592</Longitud>
+                <Longitud>-74.124891</Longitud>
+                    <Tipo>Estacion Normal</Tipo>  
+        </Estacion>     
+      <Estacion>40 sur
+            <Latitud>4.576192</Longitud>
+                <Longitud>-74.119933</Longitud>
+                    <Tipo>Estacion Normal</Tipo>  
+        </Estacion>     
+      <Estacion>Quiroga
+            <Latitud>4.576757</Longitud>
+                <Longitud>-74.114501</Longitud>
+                    <Tipo>Estacion Normal</Tipo>  
+        </Estacion>
+      <Estacion>Olaya
+            <Latitud>4.578901</Longitud>
+                <Longitud>-74.107456</Longitud>
+                    <Tipo>Estacion Normal</Tipo>  
+        </Estacion>  
+      <Estacion>Restrepo
+            <Latitud>4.581766</Longitud>
+                <Longitud>-74.101569</Longitud>
+                    <Tipo>Estacion Normal</Tipo>  
+        </Estacion> 
+      <Estacion>Fucha
+            <Latitud>4.583002</Longitud>
+                <Longitud>-74.099347</Longitud>
+                    <Tipo>Estacion Normal</Tipo>  
+        </Estacion> 
+      <Estacion>Nariño
+            <Latitud>4.586101</Longitud>
+                <Longitud>-74.094128</Longitud>
+                    <Tipo>Estacion Normal</Tipo> 
+      <Estacion>Hospital
+            <Latitud>4.594684</Longitud>
+                <Longitud>-74.086499</Longitud>
+                    <Tipo>Estacion Normal</Tipo>      
+        </Estacion>
+   </Nombre>
+</Troncal>
+<Troncal2>
+   <Nombre> Troncal2="Caracas"
+     <Cantidad>15 </Cantidad>
+      <Estacion>Tercer milenio 
+            <Latitud>4.597825</Longitud>
+                <Longitud>-74.084089</Longitud>
+                    <Tipo>Intercambiado</Tipo>
+        </Estacion>  
+       <Estacion>A.V jimenez caracas
+            <Latitud>4.602773</Longitud>
+                <Longitud>-74.080613</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+         </Estacion>            
+        <Estacion>Calle 19
+            <Latitud>4.607990</Longitud>
+                <Longitud> -74.076961</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion>          
+        <Estacion>Calle 22
+            <Latitud>4.612667</Longitud>
+                <Longitud>-74.074112</Longitud>
+                    <Tipo>Estacion normal</Tipo>
+         </Estacion>            
+        <Estacion>Calle 26
+            <Latitud>4.616961</Longitud>
+                <Longitud>-74.072030</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion>  
+        <Estacion>Calle 34
+            <Latitud>4.621463</Longitud>
+                <Longitud>-74.069788</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion> 
+        <Estacion>Calle 39
+            <Latitud>4.626234</Longitud>
+                <Longitud>-74.068790</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion>
+        <Estacion>Calle 45
+            <Latitud>4.631637</Longitud>
+                <Longitud>-74.067941</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion> 
+        <Estacion>Marly
+            <Latitud>4.636652</Longitud>
+                <Longitud>-74.066962</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion>  
+        <Estacion>Calle 57
+            <Latitud>4.643089</Longitud>
+                <Longitud>-74.065828</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion>             
+        <Estacion>Calle 63
+            <Latitud>4.648846</Longitud>
+                <Longitud>-74.064800</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion>    
+        <Estacion>Flores
+            <Latitud>4.648846</Longitud>
+                <Longitud>-74.064800</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion>                       
+        <Estacion>Calle 72
+            <Latitud>4.6582646</Longitud>
+                <Longitud>-74.062080</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion>              
+        <Estacion>Calle 76
+            <Latitud>4.663546</Longitud>
+                <Longitud>-74.061176</Longitud>
+                    <Tipo>Estacion normal</Tipo> 
+          </Estacion> 
+        <Estacion>Heroes
+            <Latitud>4.668174</Longitud>
+                <Longitud>-74.060366</Longitud>
+                    <Tipo>Intercambiador</Tipo> 
+          </Estacion>   
+   </Nombre>
+</Troncal2>
+</transmilenio>
